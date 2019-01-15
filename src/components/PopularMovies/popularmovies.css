@@ -1,0 +1,13 @@
+
+
+@media (min-resolution: 300dpi) {
+    .card-container{
+    
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 10px;
+        align-items:center;
+     }
+  }
+
+ 
